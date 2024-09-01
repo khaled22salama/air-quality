@@ -32,7 +32,7 @@ To get started with this project, ensure you have the following:
 1. Clone the repository or download the project files.
 
 ```bash
-git clone https://github.com/your_username/iot-air-quality-monitor.git
+git clone https://github.com/khaled22salama/air-quality.git
 cd iot-air-quality-monitor
 ```
 
